@@ -18,7 +18,7 @@ from sklearn.naive_bayes import MultinomialNB
 # In[2]:
 
 
-data = pd.read_csv(r"C:\Users\sidde\OneDrive\Desktop\imdb dataset of 50k Movie Reviews\IMDB Dataset.csv")
+data = pd.read_csv("IMDB Dataset.csv")
 data
 
 
