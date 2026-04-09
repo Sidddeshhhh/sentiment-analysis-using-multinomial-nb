@@ -22,6 +22,7 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 - NLTK  
 - Scikit-learn  
 - Seaborn  
+- Matplotlib  
 
 ---
 
@@ -47,6 +48,13 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 - Accuracy Score  
 - Confusion Matrix  
 - Classification Report (Precision, Recall, F1-score)  
+
+---
+
+## 📌 Results
+- Model Accuracy: **85%**
+- Achieved strong performance in classifying positive and negative reviews  
+- Model performs well on unseen text inputs  
 
 ---
 
