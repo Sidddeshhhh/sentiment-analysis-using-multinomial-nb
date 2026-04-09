@@ -64,11 +64,4 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 - Built a custom prediction function for new reviews  
 - Visualized confusion matrix using heatmap  
 
----
 
-## ▶️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Siddeshhhh/sentiment-analysis-using-multinomial-nb.git
-cd sentiment-analysis-using-multinomial-nb
